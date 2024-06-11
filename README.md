@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Rathore</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">specialist @coderforces</h3>
+<h3 align="center">4 star @codechef</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desiscientist&label=Profile%20views&color=0e75b6&style=flat" alt="desiscientist" /> </p>
 
