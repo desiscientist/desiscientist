@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Rathore</h1>
-<h3 align="center">specialist @coderforces</h3>
-<h3 align="center">4 star @codechef</h3>
-<h3 align="center">1800+ @leetcode</h3>
-
+<h3 align="center">Knight @leetcode</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desiscientist&label=Profile%20views&color=0e75b6&style=flat" alt="desiscientist" /> </p>
 
